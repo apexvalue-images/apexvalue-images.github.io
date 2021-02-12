@@ -1,1 +1,1 @@
-This is the list of distributor cert
+This is the list of images
